@@ -1,6 +1,8 @@
 .codelite
+BabygnusbuinoUploader/Release/*
 BabygnusbuinoUploader/Release/*.o
 BabygnusbuinoUploader/Debug/*.o
+BabygnusbuinoUploader/Debug/*
 .d
 main.cpp.o
 MainFrame.cpp.o
