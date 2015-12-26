@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="AttinyTeenageRiot" Database="">
+  <Project Name="BabygnusbuinoUploader" Path="BabygnusbuinoUploader/BabygnusbuinoUploader.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="no">
+      <Project Name="BabygnusbuinoUploader" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Project Name="BabygnusbuinoUploader" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
